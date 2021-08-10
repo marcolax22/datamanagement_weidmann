@@ -6,12 +6,10 @@ Submitted on: 16.09.2021 </p>
 ---
 ## Table of contents:
 
-- [Datamanagement Seminar Weidmann](#datamanagement-seminar-weidmann)
-  - [Table of contents:](#table-of-contents)
-    - [Description Data Project:](#description-data-project)
-    - [Data:](#data)
-    - [R Code:](#r-code)
-    - [PostgreSQL:](#postgresql)
+- [Description Data Project:](#description-data-project)
+- [Data:](#data)
+- [R Code:](#r-code)
+- [PostgreSQL:](#postgresql)
 
 ---
 
