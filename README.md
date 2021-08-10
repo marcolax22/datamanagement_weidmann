@@ -1,26 +1,31 @@
 # Datamanagement Seminar Weidmann
 <p> Marco Lax <br>
-Matrikelnummer: 01/990925 <br>
-Eingereicht am: 16.09.2021 </p>
+Matrikelnumber: 01/990925 <br>
+Submitted on: 16.09.2021 </p>
 
 ---
-## Inhaltsverzeichnis:
-- [Beschreibung Datenprojekt](#beschreibung-datenprojekt)
-- [Daten](#daten)
-- [R Code](#r-code)
-- [PostgreSQL](#postgresql)
+## Table of contents:
+- [Datamanagement Seminar Weidmann](#datamanagement-seminar-weidmann)
+  - [Table of contents:](#table-of-contents)
+    - [Description Data Project:](#description-data-project)
+    - [Data:](#data)
+    - [R Code:](#r-code)
+    - [PostgreSQL:](#postgresql)
 
 ---
 
-### Beschreibung Datenprojekt:
+### Description Data Project:
 
-Im Daten
+In the Data Project 
 
 
-### Daten:
+### Data:
 
 
 ### R Code:
 
+The R Code of the Data Project can be found in the file `datamanagement_R.R`.
 
 ### PostgreSQL:
+
+The PostgreSQL Code of the Data Project can be found in the file `datamanagement_PostgreSQL.R`.
