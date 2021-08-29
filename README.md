@@ -13,18 +13,18 @@ Submitted on: 16.09.2021 </p>
 
 ---
 
-### Description Data Project:
+### Description Data Project
 
 In the Data Project 
 
 
-### Data:
+### Data
 
 
-### R Code:
+### R Code
 
 The R Code of the Data Project can be found in the file `datamanagement_R.R`.
 
-### PostgreSQL:
+### PostgreSQL
 
 The PostgreSQL Code of the Data Project can be found in the file `datamanagement_PostgreSQL.R`.
