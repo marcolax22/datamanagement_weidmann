@@ -1,7 +1,7 @@
 # Datamanagement Seminar Weidmann
 <p> Marco Lax <br>
 Matrikelnumber: 01/990925 <br>
-Submitted on: 16.09.2021 </p>
+Submitted on: 15.09.2021 </p>
 
 ---
 ## Table of contents:
@@ -15,7 +15,7 @@ Submitted on: 16.09.2021 </p>
 
 ### Description Data Project
 
-In the Data Project 
+In the Data Project we have a look at the European Union.
 
 
 ### Data
