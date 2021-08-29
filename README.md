@@ -6,10 +6,10 @@ Submitted on: 16.09.2021 </p>
 ---
 ## Table of contents:
 
-- [Description Data Project:](#description-data-project)
-- [Data:](#data)
-- [R Code:](#r-code)
-- [PostgreSQL:](#postgresql)
+- [Description Data Project](#description-data-project)
+- [Data](#data)
+- [R Code](#r-code)
+- [PostgreSQL](#postgresql)
 
 ---
 
@@ -23,8 +23,8 @@ In the Data Project
 
 ### R Code
 
-The R Code of the Data Project can be found in the file `datamanagement_R.R`. Open up the R Code trough the R Project `datamanagement_weidmann´ to run and load the data correctly.
+The R Code of the Data Project can be found in the file `datamanagement_R.R`. Open up the R Code trough the R Project `datamanagement_weidmann` to run and load the data correctly.
 
 ### PostgreSQL
 
-The PostgreSQL Code of the Data Project can be found in the file `datamanagement_PostgreSQL.R`. Open up the PostgreSQL Code trough the R Project `datamanagement_weidmann´ to run and load the data correctly.
+The PostgreSQL Code of the Data Project can be found in the file `datamanagement_PostgreSQL.R`. Open up the PostgreSQL Code trough the R Project `datamanagement_weidmann` to run and load the data correctly.
