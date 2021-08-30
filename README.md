@@ -29,7 +29,7 @@ The data from Parl Gov you can find [here](http://www.parlgov.org/).
 
 ### Install packages
 
-Open up the file `install_packages.r` trough the R Project `datamanagement_weidmann` to run the code. With this code you install all required packages, if there are not installed on your device up to yet. After all packages are successfully installed, you are able to run the code [R Code](#r-code) and [PostgreSQL](#postgresql) without installing any further packages.
+Open up the file `install_packages.r` through the R Project `datamanagement_weidmann` to run the code. With this code you install all required packages, if there are not installed on your device up to yet. After all packages are successfully installed, you are able to run the code [R Code](#r-code) and [PostgreSQL](#postgresql) without installing any further packages.
 
 
 ### R Code
