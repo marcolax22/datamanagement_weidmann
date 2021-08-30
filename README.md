@@ -15,11 +15,17 @@ Submitted on: 15.09.2021 </p>
 
 ### Description Data Project
 
-In the Data Project we have a look at the European Union.
+In the Data Project we have a look at the European Union. We want to know how the economical situation depends on the goverment and the elections of a country. So how are the social benefits and taxes if we have a left goverment or a conservative government. How high is the GDP per capita in countries with different government and is there a possible relationship? How high are the revenues of a state and how high are the expenditures?
+
+To have a look at all this questions I will structure a dataset from the EuroStat data and the ParlGov data. The ParlGov data will give us the information on the election results and the different cabinets of the country. The EuroStat data will give us the information on the economical situation of a country.
+
+We combine the Cabinet and election data to see what the cabinet and strongest opposition parties are in the countries.
 
 
 ### Data
+The data from EuroStat you can find [here](https://ec.europa.eu/eurostat/data/database).
 
+The data from Parl Gov you can find [here](http://www.parlgov.org/).
 
 ### R Code
 
