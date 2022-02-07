@@ -19,4 +19,5 @@ taxes <- read_tsv(file.path("data","tec00018.tsv"))
 social_contribution <- read_tsv(file.path("data","tec00019.tsv"))
 
 #structure of the data----------------------------------------------------------
-jhf
+a -> 2+2
+a
