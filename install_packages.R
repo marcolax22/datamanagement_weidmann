@@ -4,7 +4,7 @@
 suppressWarnings(if (!require("pacman")) install.packages("pacman"))
 
 # load packages and install if not installed -----------------------------------
-pacman::p_load(tidyverse, readr, naniar,
+pacman::p_load(tidyverse, readr, naniar, DBI, RPostgres,
                install = TRUE,
                update = FALSE)
 
