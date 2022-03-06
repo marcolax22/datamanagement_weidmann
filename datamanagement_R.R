@@ -21,3 +21,5 @@ social_contribution <- read_tsv(file.path("data","tec00019.tsv"))
 #structure of the data----------------------------------------------------------
 a -> 2+2
 a
+b=4
+b
